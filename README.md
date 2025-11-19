@@ -1,0 +1,2 @@
+# wp-mcp-proxy
+MCP SERWER PROXY FOR CONECT GPT WITH WP
