@@ -1,0 +1,12 @@
+{
+  "name": "wp-mcp-proxy",
+  "version": "1.0.0",
+  "main": "api/sse.js",
+  "type": "module",
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  },
+  "scripts": {
+    "start": "node api/sse.js"
+  }
+}
